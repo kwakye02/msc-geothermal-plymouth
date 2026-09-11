@@ -1,0 +1,19 @@
+Parameter,Minimum,Mode / representative value,Maximum,PRCC,Absolute PRCC rank
+Boiler efficiency,0.8,0.84,0.88,-0.936,1
+Slate,2.2,2.69,2.9,0.93,2
+Gas heating share,0.95,0.975,1.0,-0.817,3
+Slate and Siltstone,2.2,2.49,2.69,0.747,4
+Mudstone and Siltstone,2.1,2.5,2.89,0.746,5
+Limestone,2.7,3.0,3.2,0.297,6
+"Pyroclastic Rock, Basaltic",1.8,2.2,2.5,0.183,7
+"Lava, Basaltic",1.6,1.8,2.2,0.115,8
+"Sandstone, Siltstone and Mudstone",2.3,2.82,3.1,0.111,9
+Gabbro,2.4,2.4,3.0,0.026,10
+Hyaloclastite,2.5,2.6,2.75,0.014,11
+"Slate, Siltstone and Sandstone",2.49,2.82,3.26,-0.01,12
+Chert,2.8,3.2,3.5,-0.009,13
+"Sandstone and [subequal/Subordinate] Argillaceous Rocks, Interbedded",2.5,2.82,3.1,0.005,14
+Microgabbro,1.75,2.2,2.5,-0.005,15
+Felsite,2.2,3.0,3.2,0.004,16
+"Lava, Basalt",1.6,1.8,2.2,0.003,17
+Basaltic Rock,1.6,1.8,2.3,-0.003,18

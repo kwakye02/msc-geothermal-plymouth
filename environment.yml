@@ -1,0 +1,23 @@
+name: msc-dissertation-geothermal
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - ipykernel
+  - numpy
+  - pandas
+  - geopandas
+  - shapely
+  - pyproj
+  - pyogrio
+  - fiona
+  - rasterio
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - openpyxl
+  - xlrd
+  - requests
+  - contextily
